@@ -1,0 +1,227 @@
+★フォント素材----------------------------------------------------------------------------
+●フロップデザイン			https://www.flopdesign.com/
+・やさしさゴシック			https://flopdesign.booth.pm/items/5980376
+・やさしさゴシックボールドV2		https://booth.pm/ja/items/1833993
+・ラノベPOP V2				https://booth.pm/ja/items/2328262
+
+
+
+★ウインドウ素材----------------------------------------------------------------------------
+●spicesh				https://tm.lucky-duet.com/viewtopic.php?t=3166
+・シック
+
+
+★マップチップ素材---------------------------------------------------------------------------
+●ぽぴや倉庫				https://pipoya.net/sozai/
+・掲示板
+●コミュ将				https://tm.lucky-duet.com/viewtopic.php?f=15&t=2293
+・夜の森
+
+
+★戦闘背景--------------------------------------------------------------------------------------
+●【権利表記】(C)Gotcha Gotcha Games Inc.
+・オデッセイ オブ ファンタジーシリーズ バトルバックグラウンド素材集
+●【権利表記】(C) STUDIO TOKIWA
+・トキワグラフィックス バトル背景素材 第 6 集. 火山/深い森
+
+
+★アニメーション素材--------------------------------------------------------------------------------------
+●真・なまものノなにか			http://namamonow.pandora.nu/
+
+
+★キャラチップ素材---------------------------------------------------------------------------
+●ゼロの魔女＠Fantasy of Zero		https://ci-en.dlsite.com/creator/6706
+・裸体
+
+●あくた			https://tm.lucky-duet.com/viewtopic.php?f=4&t=512
+・汎用敵
+
+
+
+★BGM素材--------------------------------------------------------------------------
+●魔王魂				https://maou.audio/
+
+
+★効果音素材--------------------------------------------------------------------------
+●On-Jin ～音人～			https://on-jin.com/
+●OtoLogic(オトロジック)		https://otologic.jp/
+
+
+
+★プラグイン素材--------------------------------------------------------------------------
+●NUUN					https://github.com/nuun888
+・バトルスタイル拡張ベース		NUUN_BattleStyleEX_Base
+・バトルスタイル拡張			NUUN_BattleStyleEX
+・アイテム/スキルMV風表示		NUUN_BattleItemSkillWindowMV
+・ステートポップアップ			NUUN_popUp
+・モンスター図鑑			NUUN_EnemyBook
+・MVアニメーションfps			NUUN_AnimationFPSRate
+・スキル名に色				NUUN_ItemNameColor
+・行動時ブースト			NUUN_boostEX
+・アイテムカテゴリ追加			NUUN_ItemCategory
+・戦闘背景変更				NUUN_BattleBackgroundEX
+・ステート横並び			NUUN_StateIconSideBySide
+・アイテム図鑑				NUUN_ItemBook
+
+
+●トリアコンタン			https://twitter.com/triacontane
+・ピクチャのグラフィカルな位置調整	AdjustPictureGraphical
+・ピクチャアニメーション		PictureAnimation
+・ウインドウ消去			MessageWindowHidden
+・文字列ピクチャ			DTextPicture
+・汎用ゲージ				ExtraGauge
+・ヘルプ説明追加			AdditionalDescription
+・チャージタイム制御			ChargeTimeControl
+・チャージ速度調整			CustomizeProgressSpeed
+・改行コード				UsableCarriageReturn
+・ピクチャボタン化			PictureCallCommon
+・APNGピクチャ				ApngPicture
+・メッセージ中央ぞろえ			MessageAlignCenter
+・ピクチャ名変数			PictureNameVariable
+・行動結果ポップアップ			BattleEffectPopup
+・イベントラベル			EventLabel
+・変数操作スキル			VariableControlItem
+・ピクチャ操作拡張			PictureControlExtend
+・動的データベース			DynamicDatabase
+・装備時変数変更			TriggerOnEquipAndState
+・会心カスタマイズ			CustomizeCritical
+・戦績					BattleRecord
+・トリガープラグイン			GeneralTrigger
+・敵キャラ行動テーブルデバッグ		DebugEnemyActionTable
+・オプション初期値			CustomizeConfigDefault
+・難易度変更				DifficultyOption
+・フォントロード			FontLoad
+・オプション初期設定			CustomizeConfigDefault
+・バストアップ表示			StatusBustImage
+・キャラクター停止			CharacterFreeze
+
+●tomoaky				https://twitter.com/tomoaky/
+・タイマー拡張				MNKR_TMTimerExMZ
+・アイテム上限				TMMaxItems
+・コモンイベントキー			TMCommonEventKey
+
+
+●hiz					http://hiz-tkool.tumblr.com/	
+・タイマー改造				HzCustomTimer	
+・重複なしランダムリスト		MNKR_HzRandomListMZ
+
+●砂川赳				http://newrpg.seesaa.net/
+・バトル中並列処理			NRP_BattleParallelCommon
+・特徴加算化				NRP_TraitsPlus
+・アイテム処理共通化			NRP_GetItemCommon
+・敵行動再選択				NRP_EnemyRoutineKai
+・選択対象カーソル			NRP_BattleTargetCursor
+・アクター切り替えカーソル左右		NRP_ActorSwitchLR
+・イベントテスト機能拡張		NRP_EventTest
+
+
+●ペンギンの寝床			http://woodpenguin.blog.fc2.com
+・装備ステータス拡張			MPP_EquipStatusEX
+・選択肢拡張				MPP_ChoiceEX
+・文章表示拡張				MMP_MessageEX
+・蓄積バトルログ			MPP_SmoothBattleLog
+・隠し通路				MPP_HiddenPassage
+
+●ケケーラボ				http://kekeelabo.com/	
+・可変アクターコマンド			Keke_VariableActorCommand
+・スリップカスタム			Keke_SlipCustom
+
+●鳥小屋プラグイン置き場		https://torigoya-plugin.rutan.dev
+・敵HPバー				TorigoyaMZ_EnemyHpBar
+・Tweenアニメーション			Torigoya_FrameTween
+・カットイン				Torigoya_SkillCutIn
+・使用後ステートスキル			Torigoya_AddStateSkill
+
+●yuwaka				http://yuwakas.blog.shinobi.jp/
+・パーティコマンド自動戦闘		StateAutoBattle
+
+
+●くろうど				https://blog.goo.ne.jp/kuroudo119
+・敵タイムゲージ			KRD_MZ_EnemyTimeGauge
+・イベントダメージポップアップ		KRD_MZ_DamagePopup
+・最低ダメージ				KDR_MZ_MinDamage
+
+●しぐれん				https://twitter.com/Sigureya/
+・複数禁止装備				Mano_EquipTag
+・パーティコマンドコモン		Mano_PartyCommandEvent
+・弱点表示				Mano_WeakPointView
+
+
+●神無月サスケ				https://twitter.com/ktakaki00
+・麻痺					NumbState
+・EV中自律移動禁止			StopSelfMovementWithPlayer
+
+●げれげれ				https://twitter.com/geregeregere
+・共有バトルイベント			GR_BaseBattleEvent
+
+
+●ムノクラ				https://twitter.com/munokura
+・セーブスクショ			MNKR_KMS_SaveWithSnapMZ
+・敵の名前にアイコン			MNKR_EnemyIconMZ
+・ランダム宝箱				MNKR_RandomTreasure
+・マップ拡大率				MNKR_DP_MapZoomMZ
+・メニュー置換コモン			MNKR_ReplaceMenu
+
+●Toru Higuruma				https://github.com/neofuji
+・逃走禁止				SealEscapeCommand
+
+●ポテトードラゴン			https://github.com/pota-gon/RPGMakerMZ/wiki
+・逃走100%				Escape
+・被ダメTP回復禁止			NoChargeTpDamage
+
+●ルルの教会				https://nine-yusha.com/
+・ゲージカスタマイズ			LL_ExGaugeDrawing
+・インフォウインドウ			LL_InfoPopupWIndow
+
+●DarkPlasma				https://twitter.com/plasma_dark/
+・HPMP両方ポップアップ			DarkPlasma_DisplayHpMpDamage
+・NPC通行不可リージョン			DarkPlasma_NPCKeepOutRegion
+
+●うなぎおおとろ			https://twitter.com/unagiootoro8388
+・クエストシステム			QuestSystem
+・その場で行動				InterruptBattleSystem
+・ステート更新				StateUpdate
+・装備シーン拡張			EquipScene_Extension
+
+●ノロワレ				https://note.com/cursed_steven/m/mcb03d554e996
+・ステータス非表示			CSVN_toggleStatusParams
+
+●剣崎宗二				https://twitter.com/eyn_kenzaki
+・ステータス共有			sharedStat
+
+●panda					http://www.werepanda.jp/
+・特定のセルフスイッチリセット		PANDA_ResetSelfSwitches
+・敵行動複数条件			PANDA_ActionMultiCondition
+
+●STAR WRITE DREAM			https://star-write-dream.com/#/
+・イベント位置保存			GABA_SaveEventLocation
+
+●イロスマRPG制作委員会			https://w.atwiki.jp/nakasuma/pages/62.html
+・報酬変動				IRPP_MV_BattleRewardEX	
+
+●Artemis				https://github.com/ArtemisJP/
+・敵グラフィック変化			ARTM_InfluenceEnemyImageMZ
+
+●ノリミツ				https://forum.tkool.jp/index.php?members/%E3%83%8E%E3%83%AA%E3%83%9F%E3%83%84.6512/#recent-content
+・カード風選択				NLM_CardItemSelectMZ
+
+●Yana					https://twitter.com/yanatsuki_
+・パーティコマンド並び替え		PartyCommandSort
+・経験値テーブル			ExpTableSet
+・バージョン管理			VersionUpCommon
+・永続ステート				PermanentState
+
+●Caethyril				https://forums.rpgmakerweb.com/index.php?threads/caethyrils-mz-plugins.125657/
+・変数操作				Cae_AutoSwitchVars
+
+●雪あすか				https://twitter.com/askyq
+・メッセージ自動送り			AutoMessage
+
+●WTR					https://tm.lucky-duet.com/viewtopic.php?t=11538
+・セーブファイルアイコン表示		SaveFileIcon
+
+
+
+
+
+
